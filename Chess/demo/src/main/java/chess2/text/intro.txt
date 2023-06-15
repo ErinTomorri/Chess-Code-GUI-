@@ -1,0 +1,12 @@
+Hello, welcome to the test run of our new version of chess with your host ERIN TOMORRIIIIIIIIIIIIIIIIIIII
+The game is unlike your regular chess game, the pieces still move in your regular patterns: 
+The bishop (Josh) moves in a diagonal patterns
+The knight (Vincent) moves two squares horizontally or vertically and then one square vertically or horizontally
+The rook (Tolga) moves horizontally or vertically across the whole board
+The queen (Allen) moves horizontally, vertically or diagonal across the whole board
+The king (Philip) moves horizontally, vertically or diagonal one square
+The pawn (Samuel) moves foward one or two squares intially and then one square every instance after that and can attack a peice diagonally 
+The white pieces start and then they alternate
+The new features added to the game are mindblowing:
+    - You need to capture all of your opponents pieces 
+    - THERE IS NO OBJECT COLLISION & THERE IS NO CASTLING OR EN PASSANT (intentionally done) (explained why in my write up)
